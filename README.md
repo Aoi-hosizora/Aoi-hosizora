@@ -1,10 +1,14 @@
 ### Introduction
 
+![Stars Earned](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&label=Stars+Earned)
+![Collaborated Stars Earned](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&affiliations=OWNER%2CCOLLABORATOR&label=Collaborated+Stars+Earned)
+![Followers](https://img.shields.io/github/followers/Aoi-hosizora?logo=github&label=Followers)
+
 + 👋 Hi! Here is AoiHosizora (青いほしぞら), majors in Intelligent Software and Robotics, Software Engineering.
-+ 📝 Speaking languages: Mandarin Chinese / Teochew-uê (native speaker), English / Japanese (average level I think).
++ 📝 Speaking languages: Mandarin Chinese (Native), Teochew-uê (Native), English (CET-6), Japanese (JLPT-N1).
 + 🏢 Some owned GitHub organizations: [ah-shellext](https://github.com/ah-shellext) & [ah-forklib](https://github.com/ah-forklib), my public email: a970335605@hotmail.com.
-+ 🚀 Interest areas: backend and distributed system development, desktop client and android client development.
-+ ⚡ Favorite programming languages: Golang, Dart, C#, Kotlin, Rust, etc.
++ 🚀 Interest areas: distributed backend system development, desktop client and android client development.
++ ⚡ Favorite programming languages: Golang, Dart, C#, Kotlin, Rust, Typescript, etc.
 
 ### Coding status
 
