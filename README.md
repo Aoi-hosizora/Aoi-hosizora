@@ -8,7 +8,7 @@
 
 + 👋 Hi! Here is AoiHosizora (青いほしぞら), majors in Intelligent Software and Robotics, Software Engineering.
 + 📝 Speaking languages: Mandarin Chinese (Native), Teochew-uê (Native), English (CET-6), Japanese (JLPT-N1).
-+ 🏢 Some owned GitHub organizations: [ah-shellext](https://github.com/ah-shellext) & [ah-forklib](https://github.com/ah-forklib), my public email: a970335605@hotmail.com.
++ 🏢 Some owned GitHub organizations: [ah-shellext](https://github.com/ah-shellext) & [ah-forklib](https://github.com/ah-forklib), my public email: a9_aoihosizora@outlook.com.
 + 🚀 Interest areas: distributed backend system development, desktop client and android client development.
 + ⚡ Favorite programming languages: Golang, Dart, C#, Kotlin, Rust, Typescript, etc.
 
