@@ -7,13 +7,13 @@
 [![GitHub Page](https://img.shields.io/static/v1?logo=github&label=GitHub+Page&message=Aoi-hosizora&color=success)](https://ghp.aoihosizora.top/)
 
 + 👋 Hi! Here is AoiHosizora (青いほしぞら), majors in Intelligent Software and Robotics, Software Engineering.
-+ 📝 Speaking languages: Mandarin Chinese (Native), Teochew-uê (Native), English (CET-6), Japanese (JLPT-N1).
++ 📝 Speaking languages: Mandarin Chinese (Native), Teo-Swa-uê (Native), English (CET-6), Japanese (JLPT-N1).
 + 🏢 Some owned GitHub organizations: [ah-shellext](https://github.com/ah-shellext) & [ah-forklib](https://github.com/ah-forklib), my public email: a9_aoihosizora@outlook.com.
 + 🚀 Interest areas: distributed backend system development, desktop client and android client development.
-+ ⚡ Favorite programming languages: Golang, Dart, C#, Kotlin, Rust, Typescript, etc.
++ ⚡ Favorite programming languages: Go, Dart, C#, Kotlin, Rust, Typescript, etc.
 
 ### Coding status
 
-<img align="left" src="https://github-readme-stats-aoi-hosizora.vercel.app/api?username=Aoi-hosizora&theme=transparent&show_icons=true&rank_icon=percentile&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&custom_title=AoiHosizora%27s%20GitHub%20Stats&card_width=400" />
+<img align="left" src="https://github-readme-stats-aoi-hosizora.vercel.app/api?username=Aoi-hosizora&theme=transparent&show_icons=true&rank_icon=percentile&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&custom_title=AoiHosizora%27s%20GitHub%20Statuses&card_width=400" />
 
 <img align="center" src="https://github-readme-stats-aoi-hosizora.vercel.app/api/top-langs?username=Aoi-hosizora&theme=transparent&layout=compact&langs_count=8&hide=Jupyter%20Notebook,JSON,Markdown,HTML,C&custom_title=Most%20Used%20Languages%20by%20AoiHosizora&card_width=350" />
