@@ -14,6 +14,6 @@
 
 ### Coding status
 
-<img align="left" src="https://github-readme-stats-aoi-hosizora.vercel.app/api?username=Aoi-hosizora&theme=transparent&show_icons=true&rank_icon=percentile&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&custom_title=AoiHosizora%27s%20GitHub%20Statuses&card_width=400" />
+<img align="left" src="https://github-readme-stats-aoi-hosizora.vercel.app/api?username=Aoi-hosizora&theme=transparent&show_icons=true&rank_icon=percentile&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged&custom_title=AoiHosizora%27s%20GitHub%20Status&card_width=400" />
 
-<img align="center" src="https://github-readme-stats-aoi-hosizora.vercel.app/api/top-langs?username=Aoi-hosizora&theme=transparent&layout=compact&langs_count=8&hide=Jupyter%20Notebook,JSON,Markdown,HTML,C&custom_title=Most%20Used%20Languages%20by%20AoiHosizora&card_width=350" />
+<img align="center" src="https://github-readme-stats-aoi-hosizora.vercel.app/api/top-langs?username=Aoi-hosizora&theme=transparent&layout=compact&langs_count=8&hide=Jupyter%20Notebook,JSON,Markdown,HTML,C&custom_title=The%20Most%20Used%20Languages&card_width=350" />
