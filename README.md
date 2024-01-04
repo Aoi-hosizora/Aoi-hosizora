@@ -1,8 +1,8 @@
 ### Introduction
 
-[![Stars Earned](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&label=Stars+Earned)](https://github.com/Aoi-hosizora)
-[![Collaborated Stars](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&affiliations=OWNER%2CCOLLABORATOR&label=Collaborated+Stars)](https://github.com/Aoi-hosizora)
-[![Followers](https://img.shields.io/github/followers/Aoi-hosizora?logo=github&label=Followers&color=925ef7)](https://github.com/Aoi-hosizora?tab=followers)
+[![Stars Earned](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&label=Stars+Earned&style=flat)](https://github.com/Aoi-hosizora)
+[![Collaborated Stars](https://img.shields.io/github/stars/Aoi-hosizora?logo=github&affiliations=OWNER%2CCOLLABORATOR&label=Collaborated+Stars&style=flat)](https://github.com/Aoi-hosizora)
+[![Followers](https://img.shields.io/github/followers/Aoi-hosizora?logo=github&label=Followers&color=925ef7&style=flat)](https://github.com/Aoi-hosizora?tab=followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi-common.aoihosizora.top%2Fgithub%2Fprofile%2Faoihosizora&query=%24.data.total_repos&logo=github&cacheSeconds=3600&label=Repositories&color=925ef7)](https://github.com/Aoi-hosizora?tab=repositories)
 [![GitHub Page](https://img.shields.io/static/v1?logo=github&label=GitHub+Page&message=Aoi-hosizora&color=success)](https://ghp.aoihosizora.top/)
 
